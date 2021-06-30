@@ -10,12 +10,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Sribna\\Licensee\\": "src/"
+            "Samdgea\\Licensee\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Sribna\\Licensee\\Tests\\": "tests"
+            "Samdgea\\Licensee\\Tests\\": "tests"
         }
     }
 }
