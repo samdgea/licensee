@@ -1,6 +1,6 @@
 <?php
 
-namespace Sribna\Licensee;
+namespace Samdgea\Licensee;
 
 use LogicException;
 
