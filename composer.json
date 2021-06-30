@@ -1,8 +1,8 @@
 {
-    "name": "sribna/licensee",
+    "name": "samdgea/licensee",
     "description": "Framework agnostic license checker. Client for sribna/licensor",
     "license": "MIT",
-    "homepage": "https://github.com/sribna/licensee",
+    "homepage": "https://github.com/samdgea/licensee",
     "require": {
         "php": "^7.0|^8.0",
         "ext-json": "*",
